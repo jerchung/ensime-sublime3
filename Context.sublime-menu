@@ -1,0 +1,5 @@
+[
+    { "command": "context_check_type_at_point", "caption": "Check type at point"},
+    { "command": "context_inspect_type_at_point", "caption": "Deep insepct type at point"},
+    { "command": "context_symbol_at_point", "caption": "Symbol at point"}
+]

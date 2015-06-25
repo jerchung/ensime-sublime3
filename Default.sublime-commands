@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Ensime: Typecheck All",
+        "command": "typecheck_all"
+    },
+    {
+        "caption": "Ensime: Startup",
+        "command": "ensime_startup"
+    }
+]
